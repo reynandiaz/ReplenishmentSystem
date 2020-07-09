@@ -1,0 +1,17 @@
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.csprojAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.Login.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.Properties.Resources.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.csproj.GenerateResource.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\bin\Debug\ReplenishmentSystem.exe.config
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\bin\Debug\ReplenishmentSystem.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\bin\Debug\ReplenishmentSystem.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.MainMenu.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.AddUser.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.Request.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.RequestItems.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.Monitoring.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.Request_TEST.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\Windows Applications\ReplenishmentSystem\ReplenishmentSystem\obj\Debug\ReplenishmentSystem.Users.resources
